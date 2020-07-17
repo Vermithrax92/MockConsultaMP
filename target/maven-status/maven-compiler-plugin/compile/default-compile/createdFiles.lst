@@ -1,0 +1,4 @@
+dto\DebitosAutomaticosEnviosDTO.class
+services\UpdateEstadoPagoService.class
+repositories\MercadoPagoRepository.class
+services\ConsultaPagoService.class
