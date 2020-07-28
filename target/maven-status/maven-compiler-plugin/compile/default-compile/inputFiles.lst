@@ -1,4 +1,6 @@
-C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\repositories\MercadoPagoRepository.java
-C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\services\ConsultaPagoService.java
-C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\dto\DebitosAutomaticosEnviosDTO.java
-C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\services\UpdateEstadoPagoService.java
+C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\com\restmercadopago\controllers\ConsultaPagoController.java
+C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\com\restmercadopago\RestMecarcadoPagoApplication.java
+C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\com\restmercadopago\dto\DebitosAutomaticosEnviosDTO.java
+C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\com\restmercadopago\services\ConsultaPagoService.java
+C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\com\restmercadopago\repositories\MercadoPagoRepository.java
+C:\Users\Seba\IdeaProjects\MockConsultaMP\src\main\java\com\restmercadopago\services\UpdateEstadoPagoService.java

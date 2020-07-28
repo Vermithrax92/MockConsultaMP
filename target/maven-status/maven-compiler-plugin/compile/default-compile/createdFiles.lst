@@ -1,4 +1,6 @@
-dto\DebitosAutomaticosEnviosDTO.class
-services\UpdateEstadoPagoService.class
-repositories\MercadoPagoRepository.class
-services\ConsultaPagoService.class
+com\restmercadopago\dto\DebitosAutomaticosEnviosDTO.class
+com\restmercadopago\RestMecarcadoPagoApplication.class
+com\restmercadopago\repositories\MercadoPagoRepository.class
+com\restmercadopago\services\ConsultaPagoService.class
+com\restmercadopago\services\UpdateEstadoPagoService.class
+com\restmercadopago\controllers\ConsultaPagoController.class
